@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SebastianLaraUDG
+- 👋 Hi, I’m Sebastián Lara
 - 👀 I’m interested in learning everything that life can teach me
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to become a Game Developer and Programmer
