@@ -7,3 +7,4 @@
 SebastianLaraUDG/SebastianLaraUDG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Certificado](https://github.com/user-attachments/assets/56fd264f-7492-4a13-9dd4-ac622354ff61)
