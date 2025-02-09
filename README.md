@@ -1,4 +1,4 @@
-Studing Videogame Engineering
+Studying Videogame Engineering
 <br />
 Programmer
 <br />
