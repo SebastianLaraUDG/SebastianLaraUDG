@@ -3,3 +3,4 @@ Studying Videogame Engineering
 Programmer
 <br />
 Unity & Unreal Engine
+Basic OPENGL
