@@ -1,6 +1,6 @@
 Studying Videogame Engineering
 <br />
-Programmer
+Programmer (Mainly Gameplay programmer)
 <br />
 Unity & Unreal Engine
 <br />
